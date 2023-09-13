@@ -7,7 +7,7 @@ public class test0913_5 {
 		boolean isBoomuk;
 		isBoomuk = true;
 		
-		System.out.println("´ç½ÅÀº ºÎ¸ÔÆÄÀÔ´Ï±î?");
+		System.out.println("Â´Ã§Â½Ã…Ã€Âº ÂºÃÂ¸Ã”Ã†Ã„Ã€Ã”Â´ÃÂ±Ã®?");
 		System.out.println(isBoomuk);
 		
 		
