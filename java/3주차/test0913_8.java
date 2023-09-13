@@ -4,11 +4,11 @@ public class test0913_8 {
 
 	public static void main(String[] args) {
 		
-		String item = "¶ó¸é";
+		String item = "ë¼ë©´";
 		int price = 800;
 		double weight = 0.12;
 		boolean dsicounted = false;
-		System.out.printf("»óÇ° - %s / °¡°İ - %d¿ø / ¹«°Ô - %.2fkg / ÇÒÀÎ¿©ºÎ - %b", item, price, weight, dsicounted);
+		System.out.printf("ìƒí’ˆ - %s / ê°€ê²© - %dì› / ë¬´ê²Œ - %.2fkg / í• ì¸ì—¬ë¶€ - %b", item, price, weight, dsicounted);
 		
 	}
 
