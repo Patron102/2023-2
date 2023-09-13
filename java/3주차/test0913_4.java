@@ -14,9 +14,9 @@ public class test0913_4 {
 		midScore = 68;
 		finalScore = 88;
 		
-		System.out.println("ÇĞ±â Àü È«ÆÅÀÌÀÇ Áß°£ Á¡¼ö");
+		System.out.println("í•™ê¸° ì „ í™íŒì´ì˜ ì¤‘ê°„ ì ìˆ˜");
 		System.out.println(midScore);
-		System.out.println("ÇĞ±â Àü È«ÆÅÀÌÀÇ ±â¸» Á¡¼ö");
+		System.out.println("í•™ê¸° ì „ í™íŒì´ì˜ ê¸°ë§ ì ìˆ˜");
 		System.out.println(finalScore);
 
 
