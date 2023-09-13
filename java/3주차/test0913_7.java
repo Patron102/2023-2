@@ -10,11 +10,11 @@ public class test0913_7 {
 		double weight = 5.4;
 		
 		System.out.println("-----------------------------");
-		System.out.println("°í¾çÀÌÀÇ "+month+"¿ù "+day+"ÀÏ ´ÙÀÌ¾îÆ® ÀÏÁö");
+		System.out.println("ê³ ì–‘ì´ì˜ "+month+"ì›” "+day+"ì¼ ë‹¤ì´ì–´íŠ¸ ì¼ì§€");
 		
 		System.out.println("-----------------------------");
-		System.out.println("½Ä»ç È½¼ö : " + n + "È¸");
-		System.out.println("¸ö¹«°Ô : " + weight + "kg");
+		System.out.println("ì‹ì‚¬ íšŸìˆ˜ : " + n + "íšŒ");
+		System.out.println("ëª¸ë¬´ê²Œ : " + weight + "kg");
 
 	}
 
