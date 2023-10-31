@@ -10,7 +10,7 @@ public class MetaStudent {
 	}
 }
 
-pulbic class  MStundent{
+public class  MStundent{
 	int id;
 	String name;
 	private int score;
